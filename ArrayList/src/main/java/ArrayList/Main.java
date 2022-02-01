@@ -24,7 +24,7 @@ public class Main {
 			
        PersonaggioFamoso pf4 = new PersonaggioFamoso();
 			
-			pf4.setNome("Lalisa");
+			pf4.setNome("LISA");
 			pf4.setCognome("Manoban");
 			pf4.setPremi(30);
 	}
